@@ -1,0 +1,2 @@
+# javascript
+waxaan isticmaala  javascript
